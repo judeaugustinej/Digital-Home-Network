@@ -14,6 +14,11 @@ An AngularJs app to monitor and manage my home digital network connection and ba
 
 * Login to the application through browser: http://127.0.0.1:8000
 
+### TODO
+* Read data from Database as of now it is read from json file.
+
+* Work on providing api using django-restframework.
+
 ### Authors
 * venky1987@gmail.com
 * paramagurukarthikeyan@outlook.com
